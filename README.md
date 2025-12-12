@@ -1,34 +1,48 @@
-# tp_8 NAOUAL ELHILLALI ADIA Group 1
+# TP 8 – Blockchain  
+**NAOUAL ELHILLALI ADIA**  
+**Group 1**
 
-A new Flutter project.
+A Flutter project integrated with a blockchain smart contract using Truffle.
+
+---
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-## truffes compiler
-![truffes compiler Screen](assets/screenshots/compiled.png)
+This project demonstrates:
+- Compilation of a smart contract with Truffle
+- Migration of the smart contract
+- Testing the contract
+- Interaction with a Flutter DApp interface
 
-<<<<<<< HEAD
-## Capture d’écran de migration
-=======
-## migration de la truffe
->>>>>>> 820f8e57e8cae83ec76e3c3699fb336bdecc3dc7
-![migration de la truffe Screen](assets/screenshots/migration.png)
-## Capture d’écran de test
-![test de truffe Screen](assets/screenshots/testContarct.png)
-<<<<<<< HEAD
-## Capture d’écran de unknown
-![Hello World Dapp Screen](assets/screenshots/interface1.png)
-## Capture d’écran de mon nom 
-![Hello World Dapp Screen](assets/screenshots/interface2.png)
-=======
+---
 
->>>>>>> 820f8e57e8cae83ec76e3c3699fb336bdecc3dc7
-A few resources to get you started if this is your first Flutter project:
+## Capture d’écran – Compilation Truffle
+![Truffle Compile](assets/screenshots/compiled.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Capture d’écran – Migration Truffle
+![Truffle Migration](assets/screenshots/migration.png)
+
+---
+
+## Capture d’écran – Test du Smart Contract
+![Truffle Test](assets/screenshots/testContarct.png)
+
+---
+
+## Capture d’écran – Interface DApp
+![Hello World Dapp](assets/screenshots/interface1.png)
+
+---
+
+## Capture d’écran – Affichage du nom
+![Hello World Name](assets/screenshots/interface2.png)
+
+---
+
+## Resources
+
+- [Flutter – Write your first app](https://docs.flutter.dev/get-started/codelab)
+- [Flutter Cookbook](https://docs.flutter.dev/cookbook)
+- [Flutter Documentation](https://docs.flutter.dev/)
