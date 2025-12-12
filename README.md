@@ -32,12 +32,12 @@ This project demonstrates:
 ---
 
 ## Capture d’écran – Interface DApp
-![Hello World Dapp](assets/screenshots/interface1.png)
+![Hello World Dapp](assets/screenshots/interface1.jpeg)
 
 ---
 
 ## Capture d’écran – Affichage du nom
-![Hello World Name](assets/screenshots/interface2.png)
+![Hello World Name](assets/screenshots/interface2.jpeg)
 
 ---
 
