@@ -8,12 +8,14 @@ This project is a starting point for a Flutter application.
 ## Capture d’écran du contrat
 ![truffes compiler Screen](assets/screenshots/compiled.png)
 
-## Capture d’écran des paramètres
+## Capture d’écran de migration
 ![migration de la truffe Screen](assets/screenshots/migration.png)
-## Capture d’écran des paramètres
+## Capture d’écran de test
 ![test de truffe Screen](assets/screenshots/testContarct.png)
-## Capture d’écran des paramètres
-![Hello World Dapp Screen](assets/screenshots/interface1.png.png)
+## Capture d’écran de unknown
+![Hello World Dapp Screen](assets/screenshots/interface1.png)
+## Capture d’écran de mon nom 
+![Hello World Dapp Screen](assets/screenshots/interface2.png)
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
